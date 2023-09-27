@@ -2,6 +2,9 @@
   "n2n": [
     { "id": "kienwoon", "username": "kienwoon", "firstname": "Kien Woon", "lastname": "Phong", "email": "kienwoon.phong@n2nconnect.com" },
     { "id": "kenny", "username": "kenny", "firstname": "Kenny", "lastname": "Phong", "email": "kenny.phong@n2nconnect.com" },
-    { "id": "chenyap", "username": "chenyap", "firstname": "Chen Yap", "lastname": "Chia", "email": "chenyap.chiag@n2nconnect.com" },
-  ]
+    { "id": "chenyap", "username": "chenyap", "firstname": "Chen Yap", "lastname": "Chia", "email": "chenyap.chiag@n2nconnect.com" }
+  ],
+  "n2n/count": { 
+    "total": 3
+  }
 }
